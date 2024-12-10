@@ -26,4 +26,9 @@ items:
   kind: page
   children: []
   file: content/fr/organizations/_index.html
+- title: Le Projet
+  target: "/le-projet/"
+  kind: page
+  children: []
+  file: content/fr/pages/le-projet/_index.html
 
