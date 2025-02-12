@@ -2,6 +2,11 @@
 
 baseURL: https://reseau-peinture.inseamm.osuny.site
 
+## OSUNY
+osuny:
+  website:
+    id: 91bd224d-96db-4738-be19-36c72916baad
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
