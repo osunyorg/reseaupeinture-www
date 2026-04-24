@@ -15,6 +15,6 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/agenda/2024-10-04-traduttore-traditore/index.html"
+from = "/agenda/2024-10-04-traduttore-traditore/"
 to = "/agenda/2024/traduttore-traditore/"
 
